@@ -1,0 +1,22 @@
+[
+  [
+    "text/plain",
+    "*/*",
+    "text/plain"
+  ], [
+    "text/plain",
+    "test/html"
+  ], [
+    "text/html;q=0.1,text/plain",
+    "*/*",
+    "text/plain"
+  ], [
+    "text/html,text/plain",
+    "*/*",
+    "text/html"
+  ], [
+    "audio/mp3,text/html;level=1",
+    "*/*",
+    "text/html;level=1"
+  ]
+]
