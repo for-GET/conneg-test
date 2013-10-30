@@ -23,11 +23,6 @@ Each test case is structured as `[description, provided, accept, result]` for po
 `result` is the item in `provided` (bit-to-bit equality including whitespace and weight) that is a best match for content negotiation.
 
 
-### `cache` tests
-
-TODO
-
-
 ## License
 
 [Apache 2.0](LICENSE)
