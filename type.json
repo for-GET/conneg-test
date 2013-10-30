@@ -1,20 +1,25 @@
 [
   [
+    "Generic",
     "text/plain",
     "*/*",
     "text/plain"
   ], [
+    "Generic",
     "text/plain",
     "test/html"
   ], [
+    "Choice by relative weight",
     "text/html;q=0.1,text/plain",
     "*/*",
     "text/plain"
   ], [
+    "Choice by order",
     "text/html,text/plain",
     "*/*",
     "text/html"
   ], [
+    "Choice by specificity",
     "audio/mp3,text/html;level=1",
     "*/*",
     "text/html;level=1"
